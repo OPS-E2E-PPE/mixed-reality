@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "mixed-reality-docs",
+      "docset_name": "mixed-reality-docs-ppe",
       "build_source_folder": "mixed-reality-docs",
-      "build_output_subfolder": "mixed-reality-docs",
+      "build_output_subfolder": "mixed-reality-docs-ppe",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
