@@ -4,7 +4,7 @@ description: This guidance is authored by Microsoft designers, developers, progr
 author: MRWied
 ms.author: jonwie
 ms.date: 03/21/2018
-ms.topic: article
+ms.topic: abc
 keywords: Windows Mixed Reality, design, introduction, guidance
 ---
 
