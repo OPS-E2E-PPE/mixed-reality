@@ -10,7 +10,7 @@ keywords: Windows Mixed Reality, design, 3D app launcher, immersive headset, liv
 
 
 
-# 3D app launcher design guidance
+# 3D app launcher design guidance 1
 
 When you put on a Windows Mixed Reality immersive (VR) headset, you enter the Windows Mixed Reality home, visualized as a house on a cliff surrounded by mountains and water (though you can [choose other environments and even create your own](add-custom-home-environments.md)). Within the space of this home, a user is free to arrange and organize the 3D objects and apps that they care about any way they want. A **3D app launcher** is a “physical” object in the user’s mixed reality house that they can select to launch an app.
 
